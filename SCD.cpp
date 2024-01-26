@@ -8,7 +8,9 @@ private:
 public:
     Door();
     void openDoor();
+    //Ibrahim's
     void closeDoor();
+    //Ibrahim's
     void lockDoor();
     void unlock();
     bool isDoorOpen();
