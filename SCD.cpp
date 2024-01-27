@@ -12,6 +12,7 @@ public:
     void closeDoor();
     //Ibrahim's Function 
     void lockDoor();
+    //Laiba's Function
     void unlock();
     bool isDoorOpen();
     bool isDoorLocked();
