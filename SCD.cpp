@@ -17,6 +17,7 @@ public:
     //Laiba's Function
     bool isDoorOpen();
     bool isDoorLocked();
+    //Haseeb's Function
 };
 
 int main()
