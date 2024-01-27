@@ -14,6 +14,7 @@ public:
     void lockDoor();
     //Laiba's Function
     void unlock();
+    //Laiba's Function
     bool isDoorOpen();
     bool isDoorLocked();
 };
