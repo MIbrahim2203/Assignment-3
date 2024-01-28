@@ -16,6 +16,7 @@ public:
     void unlock();
     //Laiba's Function
     bool isDoorOpen();
+	//sarib's Function
     bool isDoorLocked();
     //Haseeb's Function
 };
